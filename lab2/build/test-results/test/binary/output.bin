@@ -1,0 +1,19 @@
+Statistics:
+Integers: 4
+Floating point numbers: 2
+Strings: 2
+Statistics:
+Integers: 4
+Min value: 6
+Max value: 666
+
+Sum: 953
+Average: 238.25
+Floating point numbers: 2
+Min value: 2.66
+Max value: 3.14
+Sum: 5.800000000000001
+Average: 2.9000000000000004
+Strings: 2
+Min string length: 3
+Max string length: 4
